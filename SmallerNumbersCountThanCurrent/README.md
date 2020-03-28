@@ -28,3 +28,4 @@ Constraints:
 
 2 <= nums.length <= 500
 0 <= nums[i] <= 100
+https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
